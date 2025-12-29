@@ -16,9 +16,13 @@ export default function Hero() {
         <p className="hero-tagline">{heroData.tagline}</p>
 
         <div className="hero-buttons">
-          <a href="/assets/Yogeswari-Resume.pdf" download>
-            Download Resume
-          </a>
+          <a
+  href="/assets/Yogeswari_Resume.pdf"
+  download="Yogeswari_Resume.pdf"
+  className="resume-btn"
+>
+  📄 Download Resume
+</a>
 
           <a href="#contact" className="outline">
             Contact Me

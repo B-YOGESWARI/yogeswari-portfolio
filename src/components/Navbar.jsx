@@ -51,6 +51,13 @@ export default function Navbar() {
             Experience
           </a>
         </li>
+        <a
+  href="/assets/Yogeswari_Resume.pdf"
+  download
+  className="nav-link"
+>
+  Resume
+</a>
 
         <li>
           <a href="#contact" className={active === "contact" ? "active" : ""}>

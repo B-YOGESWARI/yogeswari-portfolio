@@ -98,7 +98,7 @@ export const projectsData = [
     description:
       "A professional portfolio built using React, Vite, reusable components, animations, and modern UI design.",
     tech: ["React", "Vite", "JavaScript", "CSS", "Netlify", "GitHub"],
-    github: "https://github.com/B-YOGESWARI/your-portfolio-repo",
+    github: "https://github.com/B-YOGESWARI/yogeswari-portfolio",
     category: ["Frontend","Backend"]
   },
 
