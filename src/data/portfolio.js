@@ -109,7 +109,21 @@ export const projectsData = [
     tech: ["AWS EC2", "AWS S3", "IAM", "Cloud Deployment"],
     category: ["Cloud"]
   },
-
+  {
+  title: "Visitor Management System",
+  description:
+    "A Zoho Creator–based application to manage visitor entry and exit, track visit details, assign host employees, and generate user-wise and date-wise reports with improved security and efficiency.",
+  tech: [
+    "Zoho Creator",
+    "Deluge Script",
+    "Zoho Forms",
+    "Workflows",
+    "Reports"
+  ],
+  github: "", // Zoho apps usually don’t have GitHub
+  demo: "",
+  category: "Low-Code Application"
+},
   {
     title: "Community Service Project on Organic Farming",
     description:
